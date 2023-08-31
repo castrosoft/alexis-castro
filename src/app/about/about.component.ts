@@ -9,9 +9,9 @@ export class AboutComponent implements OnInit {
 
   // personalInformation2: string = "01 Jan 1900";
   personalInformation: any[] = [{
-    "website": "https://castrosoft.github.io/portfolio/",
-    "city": "Córdoba, ARG",
-    "email": "cp.castropedro@gmail.com",
+    "website": "https://castrosoft.github.io/alexis-castro/",
+    "city": "Rafaela, ARG",
+    "email": "nicocastroagu@gmail.com",
     "linkedin": "https://www.linkedin.com/in/cp-castropedro/",
     "github": "https://github.com/castrosoft"
   }];
